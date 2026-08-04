@@ -1,3 +1,4 @@
+<img width="1023" height="519" alt="KyTube" src="https://github.com/user-attachments/assets/a786017d-3627-4008-960b-c5e777b2b567" />
 ### ✨ Highlights / Öne Çıkanlar
 
 * 🎥 **MP4 & Audio:** Download full videos or extract audio-only streams.  
