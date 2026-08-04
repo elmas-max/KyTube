@@ -8,5 +8,3 @@
   *(İndirmeden önce video adı ve kanal bilgisini görüntüler.)*
 * 📂 **Auto Save:** Saves directly to the system Downloads folder.  
   *(Doğrudan İndirilenler klasörüne kaydeder.)*
-
-<img width="2" height="2" alt="image" src="https://github.com/user-attachments/assets/b8f6a6d2-27d8-4993-9550-e7dbe06bb27c" />
